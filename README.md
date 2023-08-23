@@ -1,7 +1,7 @@
 <h1 align="center" style="font-size: 32px;"> MACROMEDIA JSFL Deobfuscator </h1>
 
-<h1 align="center" style="font-size: 16px;"> MACROMEDIA JSFL Deobfuscator or MJD is a small dynamic library for Adobe Animate that decodes obfuscated JSFL files into readable and editable JSFL files in any IDE </h1>
-<h1 align="center" style="font-size: 16px;"> <strong> This library works only on Adobe Animate 22.0.3 on Windows system. If you need support for another version open a new issue </strong> </h1>
+### MACROMEDIA JSFL Deobfuscator or MJD is a small dynamic library for Adobe Animate that decodes obfuscated JSFL files into readable and editable JSFL files in any IDE
+<strong> This library works only on Adobe Animate 22.0.3 on Windows system. If you need support for another version open a new issue</strong>
 
 ## How to use
 Download dll file from releases and put it in the folder: ```C:\Users\{USER NAME}\AppData\Local\Adobe\Animate {VERSION}\{PROGRAM LANGUAGE CODE}\Configuration\External Libraries```  
